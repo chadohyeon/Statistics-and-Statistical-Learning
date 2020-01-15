@@ -1,1 +1,18 @@
 # Statistics-and-Statistical-Learning
+ 
+통계학 및 통계적학습 공부.
+유전학, 생명정보학, 의학통계학 등 많은 부분에서 사용되는 통계학 기반의 이론, 알고리즘, 예제 코드 등을 공부 목적으로 업로드 하려고 합니다.
+사용할 책은 아래 정도로 생각하고 있습니다.
+
+1) Introduction to Mathematical Statistics, 7th ed (R. Hogg)
+   : 김우철 저 책과 함께 가장 널리 읽히는 수리통계학 서적.
+2) Pattern Recognition and Machine Learning (C. Bishop)
+   : 서울대 패턴인식 대학원 수업에서 사용되는 교재
+3) Computer Age Statistical Inference (B. Efron)
+   : 부트스트랩 기법을 만든 브래들리 에프론 저
+4) The Elements of Statistical Learning (T. Hastie)
+   : 통계적 학습의 바이블로 ISLR 확장판
+5) Introduction to Linear Regression Analysis (D. Montgomerry)
+   : 회귀분석와 일반선형화모델의 바이블
+6) Bayesian Data Analysis (A. Gelman)
+   : 베이지안 통계 입문서
