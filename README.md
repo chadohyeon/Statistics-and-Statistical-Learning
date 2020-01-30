@@ -11,7 +11,7 @@
 3) Computer Age Statistical Inference (B. Efron)
    : 부트스트랩 기법을 만든 브래들리 에프론 저
 4) The Elements of Statistical Learning (T. Hastie)
-   : 통계적 학습의 바이블. ISLR 심화 버
+   : 통계적 학습의 바이블. ISLR 심화 버전
 5) Introduction to Linear Regression Analysis (D. Montgomerry)
    : 회귀분석와 일반선형화모델의 바이블
 6) Bayesian Data Analysis (A. Gelman)
