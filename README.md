@@ -15,4 +15,4 @@
 5) Introduction to Linear Regression Analysis (D. Montgomerry)
    : 회귀분석와 일반선형화모델의 바이블
 6) Bayesian Data Analysis (A. Gelman)
-   : 베이지안 통계 입문서
+   : 가장 추천 받은 베이지안 통계 책
