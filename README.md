@@ -1,4 +1,4 @@
-# Statistics-and-Statistical-Learning
+# Statistics-and-Statistical-Machine-Learning
  
 통계학 및 통계적 기계학습 공부.
 유전체, 전사체 데이터 분석 및 전반적인 생명정보학, 의학통계학 등 다양한 분야에서 사용되는 통계학 기반의 이론, 머신 러닝 알고리즘, 예제 코드 등을 개인 공부 목적으로 업로드 하려고 합니다.
